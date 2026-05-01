@@ -1,4 +1,4 @@
-This beautiful python file can be used to convert a CoreGame replay (replay.json) into a format that can be imported into my scratch CoreGame visualizer
+This beautiful python file can be used to convert a CoreGame replay (replay.json) into a format that can be imported into my Scratch CoreGame visualizer
 ( https://scratch.mit.edu/projects/1313810939/ )
 replay.json needs to exist in the same folder as this tool when it is executed.
 
